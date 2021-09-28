@@ -1,8 +1,8 @@
 Code accompanying the paper "Drawing Non-layered Tidy Trees in Linear Time"
 
 ### Introduction
-TreeNode contains the source Tree
-Paper.Tree is the Ploeg structure supporting the algorithm.
+1. TreeNode contains the source Tree
+2. Paper.Tree is the Ploeg structure supporting the algorithm.
 
 #### Within doLayout
 1. TreeNode::layer() setups the y-coordinates, 
